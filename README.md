@@ -5,6 +5,7 @@ It uses whois Reverse IP/DNS API which you can get at https://reverse-ip-api.who
 It uses threatcrowd for IP/URL reputation.You can find it at https://github.com/AlienVault-OTX/ApiV2
 
 
+
 Now onto the major modules of the project:
 
 1. testfile :
@@ -31,6 +32,9 @@ Now onto the major modules of the project:
 8.filepath.txt:
   stores the path of pcap file to be read
   
-  Feel free to contact me for more questions.
+  Feel free to contact me for more questions.Just send a pull request!
+
+
+Note :This is a prototye version of the project.
 
   
